@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0424-longest-repeating-character-replacement) |
+| [1903-largest-odd-number-in-string](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/1903-largest-odd-number-in-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0011-container-with-most-water) |
+| [1903-largest-odd-number-in-string](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/1903-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0268-missing-number) |
+| [1903-largest-odd-number-in-string](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/1903-largest-odd-number-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
