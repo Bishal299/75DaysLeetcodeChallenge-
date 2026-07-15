@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0424-longest-repeating-character-replacement) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/1903-largest-odd-number-in-string) |
 ## Divide and Conquer
 |  |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0232-implement-queue-using-stacks) |
 | [0739-daily-temperatures](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0739-daily-temperatures) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
 |  |
 | ------- |
