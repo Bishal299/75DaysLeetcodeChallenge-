@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0268-missing-number) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0876-middle-of-the-linked-list) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0268-missing-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/1903-largest-odd-number-in-string) |
 ## Monotonic Stack
