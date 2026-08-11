@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0739-daily-temperatures) |
 | [1331-rank-transform-of-an-array](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/1331-rank-transform-of-an-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/1331-rank-transform-of-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0455-assign-cookies) |
 | [1331-rank-transform-of-an-array](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/1331-rank-transform-of-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## String
 |  |
 | ------- |
