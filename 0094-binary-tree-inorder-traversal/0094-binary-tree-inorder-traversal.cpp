@@ -23,13 +23,8 @@ class Solution {
 public:
     vector<int> inorderTraversal(TreeNode* root) {
         vector<int> ans;
-        if(root==NULL){
-            return {};
-        }
-        // inorderTraversal(root->left);
-        // ans.push_back(root->val);
-        // inorderTraversal(root->right);
-
-        return traverse(root,ans);
+       
+         traverse(root,ans);
+        return ans;
     }
 };
