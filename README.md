@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0143-reorder-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0155-min-stack) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0230-kth-smallest-element-in-a-bst) |
