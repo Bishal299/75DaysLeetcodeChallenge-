@@ -28,7 +28,7 @@ public:
     TreeNode* searchBST(TreeNode* root, int val) {
         // if(root)
 
-        TreeNode* ans=searchhelper(root,val);
-        return ans;
+        
+        return searchhelper(root,val);
     }
 };
