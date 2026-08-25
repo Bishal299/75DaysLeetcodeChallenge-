@@ -17,8 +17,14 @@ int height(TreeNode* root){
         }
         int lheight=height(root->left);
         int rheight=height(root->right);
+        
         int currheight=max(lheight,rheight)+1;
-    
+        if(lheight==-1 && rheight==-1){
+            return -1;
+        }
+        if(abs(lheight-rheight)>1){
+            return -1;
+        }
     return currheight;
 }
     bool isBalanced(TreeNode* root) {
