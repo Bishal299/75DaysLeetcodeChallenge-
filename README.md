@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0739-daily-temperatures) |
+| [0994-rotting-oranges](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0994-rotting-oranges) |
 | [1331-rank-transform-of-an-array](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/1331-rank-transform-of-an-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0994-rotting-oranges) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Linked List
 |  |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0733-flood-fill) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
