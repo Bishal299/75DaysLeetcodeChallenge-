@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0268-missing-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/1903-largest-odd-number-in-string) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/3875-construct-uniform-parity-array-i) |
 ## Monotonic Stack
 |  |
 | ------- |
