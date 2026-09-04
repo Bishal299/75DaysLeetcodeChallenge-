@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0238-product-of-array-except-self) |
+| [3903-smallest-stable-index-i](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/3903-smallest-stable-index-i) |
 ## Two Pointers
 |  |
 | ------- |
