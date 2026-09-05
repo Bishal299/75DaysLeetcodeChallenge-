@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0739-daily-temperatures) |
 | [0994-rotting-oranges](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/1020-number-of-enclaves) |
 | [1331-rank-transform-of-an-array](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/1331-rank-transform-of-an-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/1020-number-of-enclaves) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Linked List
 |  |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0733-flood-fill) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/1020-number-of-enclaves) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0733-flood-fill) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/1020-number-of-enclaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -379,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
