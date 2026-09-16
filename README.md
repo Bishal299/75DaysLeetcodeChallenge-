@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0347-top-k-frequent-elements) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0704-binary-search) |
 ## Greedy
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0200-number-of-islands) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0994-rotting-oranges) |
