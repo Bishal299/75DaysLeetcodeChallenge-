@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0455-assign-cookies) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0303-range-sum-query-immutable) |
 | [3903-smallest-stable-index-i](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/3903-smallest-stable-index-i) |
 ## Two Pointers
 |  |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0208-implement-trie-prefix-tree) |
 | [0232-implement-queue-using-stacks](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0232-implement-queue-using-stacks) |
+| [0303-range-sum-query-immutable](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0303-range-sum-query-immutable) |
 ## Queue
 |  |
 | ------- |
