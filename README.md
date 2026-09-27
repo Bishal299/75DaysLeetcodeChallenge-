@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/1331-rank-transform-of-an-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2974-minimum-number-game](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/3875-construct-uniform-parity-array-i) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0455-assign-cookies) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/1331-rank-transform-of-an-array) |
+| [2974-minimum-number-game](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## String
 |  |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0347-top-k-frequent-elements) |
+| [2974-minimum-number-game](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/2974-minimum-number-game) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -400,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2974-minimum-number-game](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Quicksort
 |  |
