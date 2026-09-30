@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/0268-missing-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/1922-count-good-numbers) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Bishal299/75DaysLeetcodeChallenge-/tree/master/3875-construct-uniform-parity-array-i) |
 ## Monotonic Stack
 |  |
